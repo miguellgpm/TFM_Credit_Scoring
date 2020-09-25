@@ -1,0 +1,2 @@
+# TFM_Credit_Scoring
+In this repository you can see the model that we developed for our TFM in CUNEF. The project is about a model LightGBM with bayesian optimizacion for credit scoring. After deploying the model, we create a business metric to measure the benefits of the bank applying costs to the confussion matrix. After that, we also developed a pricing model to reduce the rate interest to facilitate the pay of the loan to somo clients. The objective is to minimize the defaulting customers.
